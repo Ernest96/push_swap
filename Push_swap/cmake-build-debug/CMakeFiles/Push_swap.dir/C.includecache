@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ernest/Programming/Push_swap/operations3.c
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+stdint.h
+-
+
